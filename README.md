@@ -1,0 +1,2 @@
+# weaviate_tipaka
+Nissaya
